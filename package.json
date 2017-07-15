@@ -1,0 +1,23 @@
+{
+  "name": "game.sudoku",
+  "version": "0.0.1",
+  "description": "Game SUDOKU with demonstration skills React, ES6",
+  "dependencies": {
+    "react": "15.3.1",
+    "react-dom": "15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigr1991/game.sudoku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tigr1991/game.sudoku/issues"
+  },
+  "homepage": "https://github.com/tigr1991/game.sudoku#readme"
+}
